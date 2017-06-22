@@ -1,0 +1,49 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#profile{
+    width: 100%;
+}
+
+#request{
+    width: 100%;
+}
+
+#edit{
+    background-color:  #cce4ce;
+    width: 100%;
+}
+
+#deleteProfile{
+    width: 100%;
+}
+
+.error{
+    color: red;
+}
+
+#navBar{
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#cover{
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: absolute;
+    z-index: -100;
+    background-image: url(../pics/cover.jpg);
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}

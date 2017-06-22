@@ -1,0 +1,54 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#cover{
+    background-image: url(../pics/faculty.jpg);
+    background-size: cover !important;
+    width: 100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+    color: white;
+    font-size: 50pt;
+    font-weight: bolder;
+    padding-top: 100px;
+}
+
+#navBar{
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#view{
+    font-family: 'Anton', sans-serif;
+}
+
+.paragraph{
+    font-weight: 100;
+}
+
+.facebook{
+    color: blue;
+}
+
+.email{
+    color: brown;
+}
+
+.phone{
+    color: green;
+}
+
+
+

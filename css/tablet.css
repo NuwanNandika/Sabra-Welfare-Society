@@ -1,0 +1,47 @@
+#middle{
+    visibility: hidden;
+}
+
+#next{
+    visibility: hidden;    
+}
+
+#explore{
+    visibility: hidden;
+}
+
+#questions{
+    visibility: hidden;
+}
+
+.icons{
+    margin: 0 auto;
+}
+
+#whoWeAre{
+    text-align: center;
+}
+
+#whatWeDo{
+    text-align: center;
+}
+
+#event{
+    margin: 0 auto;
+}
+
+#loan{
+    margin: 0 auto;
+}
+
+#funeral{
+    margin: 0 auto;
+}
+
+.rwd-break { 
+    display: none;
+}
+
+#header b{
+    font-size: 20pt !important;
+}

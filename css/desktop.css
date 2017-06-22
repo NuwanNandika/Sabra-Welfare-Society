@@ -1,0 +1,97 @@
+#middle{
+    text-decoration: none;
+    font-size: 17pt;
+    font-family: Arial;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    color: white;
+    background: black; 
+    box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    transition: color 300ms ease-in-out;
+    transition: background 150ms ease-in-out;
+    position: absolute;
+    z-index: 200;
+    display: block;
+    top: 350px;
+    left: 600px;
+}
+#middle:hover{
+    color: black;
+    background: white;
+}
+
+#next{
+    text-decoration: none;
+    font-size: 17pt;
+    font-family: Arial;
+    font-weight: bold;
+    display: block;
+    //padding: 10px;
+    text-align: center;
+    border: 3px solid black;
+    color: white;
+    background: black; 
+    box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    transition: color 300ms ease-in-out;
+    transition: background 150ms ease-in-out;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+#next:hover{
+    color: black;
+    background: none;   
+}
+
+#explore{
+    text-decoration: none;
+    font-size: 17pt;
+    font-family: Arial;
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid black;
+    color: white;
+    background: black; 
+    box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    transition: color 300ms ease-in-out;
+    transition: background 150ms ease-in-out;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+#explore:hover{
+    color: black;
+    background: none;   
+}
+
+
+#questions{
+    text-decoration: none;
+    font-size: 17pt;
+    font-family: Arial;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    transition: color 300ms ease-in-out;
+    transition: background 150ms ease-in-out;
+    margin-top: 80px;
+}
+
+#questions:hover{
+    color: black;
+    background: white;
+}
+
+.rwd-break { 
+    display: none;
+}

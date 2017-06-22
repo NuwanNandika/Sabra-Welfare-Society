@@ -1,0 +1,68 @@
+#header h2{
+    font-size: 15pt !important;
+}
+
+.rwd-break2 { 
+    display: none;
+}
+
+#otherDetails{
+    position: absolute;
+    top: 500px !important;
+}
+
+#middle{
+    visibility: hidden;
+}
+
+#next{
+    visibility: hidden;
+}
+
+figure {
+    width: 200px;
+    height: 140px;
+    margin: 0 auto;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+}
+
+#explore{
+    visibility: hidden;
+}
+
+#questions{
+    visibility: hidden;
+}
+
+#whoWeAre{
+    text-align: center;
+}
+
+#whatWeDo{
+    text-align: center;
+}
+
+#para3{
+    font-size: 10pt;
+}
+
+#footer h2{
+    font-size: 15pt !important;
+}
+
+#gray_footer{
+    //height: 300px;
+    position: absolute;
+    bottom: 70px;
+}
+
+#orange_footer{
+    position: absolute;
+    bottom: 0;
+}
+
+#header b{
+    font-size: 15pt !important;
+}

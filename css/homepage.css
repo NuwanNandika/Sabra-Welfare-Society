@@ -1,0 +1,174 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#background{
+    position: fixed;
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    width: 90px;
+    height: 90px;
+}
+
+#navBar{
+    margin-bottom: -20px;
+}
+
+#whatWeDo{
+    //width: 100%;
+    background-color: white;
+    z-index: 100;
+    padding-top: 50px;
+}
+
+.icon{
+    opacity: 0.6;
+    transition: opacity 300ms ease-in-out;
+}
+
+.icon:hover{
+    opacity: 1;
+}
+
+#whoWeAre{
+    //width: 100%;
+    background-color: white;
+    z-index: 100;
+    padding-top: 50px;
+}
+
+
+figure {
+    width: 300px;
+    height: 220px;
+    margin: 0 auto;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+}
+figure:hover {
+    //bottom: -36px;
+    opacity: 1;
+}
+
+.hover1 figure img {
+    -webkit-transform: rotate(15deg) scale(1.4);
+    transform: rotate(15deg) scale(1.4);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover1 figure:hover img {
+    -webkit-transform: rotate(0) scale(1);
+    transform: rotate(0) scale(1);
+}
+
+.hover2 figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover2 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.hover3 figure img {
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover3 figure:hover img {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+}
+
+#para2{
+    margin-bottom: 30px;
+}
+
+#otherDetails{
+    position: absolute;
+    top: 650px;
+    width: 100%;
+}
+
+#joinUs{
+    width: 100%;
+    height: 700px;
+    background-image: url(../pics/join.jpg);
+    background-size: cover;
+    font-family: Arial;
+    color: white;
+    font-size: 18pt;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+#title3{
+    margin-top: 60px;
+}
+
+
+
+#form{
+    margin-top: 700px;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.error{
+    color: red;
+}
+
+#arrow{
+    color: green;
+}
+
+#arrow:hover{
+    color: red;
+}
+
+#upArrow{
+    position: absolute;
+    right: 0;
+}
+
+.paragraph{
+    font-weight: 100;
+}
+
+#send{
+    border-radius: 0 !important;
+    padding: 20px;
+    border: 1px solid black;
+    background: none;
+    color: black;
+    transition: color 300ms ease-in-out;
+    transition: background 150ms ease-in-out;
+}
+
+#send:hover{
+    border: 1px solid   #19cba3;
+    background:   #19cba3;
+    color: white;
+}
+
+.para4{
+    color: gray;
+}

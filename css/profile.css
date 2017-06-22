@@ -1,0 +1,62 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#profile{
+    background-color:  #cce4ce;
+    width: 100%;
+}
+
+#request{
+    width: 100%;
+}
+#edit{
+    width: 100%;
+}
+
+#deleteProfile{
+    width: 100%;
+}
+
+#imgDiv{
+    //background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+#profilepic{
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    //max-height:200px;
+    overflow: hidden;
+}
+
+#details{
+    font-size: 15pt;
+}
+
+#navBar{
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#cover{
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: absolute;
+    z-index: -100;
+    background-image: url(../pics/cover.jpg);
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}

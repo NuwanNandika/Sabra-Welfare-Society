@@ -1,0 +1,23 @@
+#header h2{
+    font-size: 15pt !important;
+}
+
+#footer h2{
+    font-size: 15pt !important;
+}
+
+.rwd-break2 { 
+    display: none;
+}
+
+#view{
+    font-size: 30pt;
+}
+
+#header b{
+    font-size: 15pt !important;
+}
+
+#parent{
+    font-size: 10pt !important;
+}
