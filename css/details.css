@@ -1,0 +1,38 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#cover{
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#navBar{
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+#info h3{
+    color: gray;
+}
+
+#info p{
+    color: gray;
+}
+
+#requests{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+#requests:hover{
+    box-shadow: 2px 2px 2px gray;
+}
