@@ -45,7 +45,7 @@ if (isset($_POST['submit'])) {
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/login.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet"> 

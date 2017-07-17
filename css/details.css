@@ -2,6 +2,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+#content{
+    font-weight: 300;
+}
+
 #cover{
     overflow-x: hidden;
     overflow-y: auto;

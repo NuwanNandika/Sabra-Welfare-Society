@@ -25,7 +25,7 @@ $admin = mysqli_fetch_assoc($admin_set);
         <link href="css/phonesize.css" rel="stylesheet" type="text/css" media="only screen and (max-width:450px)" />
         <link href="css/tabletsize.css" rel="stylesheet" type="text/css" media="only screen and (min-width:451px) and (max-width:960px)" />
         <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet"> 
